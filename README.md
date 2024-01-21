@@ -1,2 +1,8 @@
-# Task
-Task is a To-Do List Application made with the goal of enhancing productivity and organization in your daily life. With a sleek and intuitive design, Task offers a user-friendly interface that makes managing your tasks a breeze.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
